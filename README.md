@@ -1,6 +1,6 @@
-# credit-risk-classification
-
-**Credit Analysis Report**
+<h2>
+Credit Analysis Report
+<h2>
 ### The purpose of the analysis is to determine if credit applicants will be 'healthy' or 'high-risk' loan borrowers. 
 
 ### The machine learning model scores came back as follows for the Logistic Regression Model:
