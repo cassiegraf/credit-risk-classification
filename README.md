@@ -25,7 +25,7 @@ The purpose of the analysis is to determine if credit applicants will be 'health
 
 #### The Logistic Regression Model with Resampled Data performs similarly to the Logistic Regression Model. However, this model has higher recall when predicting 'high-risk' borrowers.
 
-##### I do recommend using this model as it provides 99% accruacy overall when predicting a 'healthy' vs 'high-risk' borrower. It could use some improvement on the precision of predicting 'high-risk' borrowers, which a lender would be concerned about.
+#### I do recommend using this model as it provides 99% accruacy overall when predicting a 'healthy' vs 'high-risk' borrower. It could use some improvement on the precision of predicting 'high-risk' borrowers, which a lender would be concerned about.
 
 
-### used code from this link to help with the RandomOverSampler section: https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
+#### used code from this link to help with the RandomOverSampler section: https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
