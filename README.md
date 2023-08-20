@@ -1,6 +1,5 @@
-<h2>
-Credit Analysis Report
-<h2>
+<h2>Credit Analysis Report<h2>
+<h3> code saved here: main branch -> 'Credit_Risk' folder -> file name: credit_risk_classification.ipynb <h3>
 
 <h4>
 The purpose of the analysis is to determine if credit applicants will be 'healthy' or 'high-risk' loan borrowers. 
